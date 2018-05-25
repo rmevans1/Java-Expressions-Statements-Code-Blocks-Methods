@@ -13,3 +13,7 @@ Covering expressions. Expressions are a combination of variables, operators and 
 ### Lecture 25- Statements, Whitespace and Indentation
 
 Statements, whitespace, and indentation
+
+### Lecture 26- Code Blocks and The If Then Else Control Statements
+
+Covering code blocks and if then else control flow
