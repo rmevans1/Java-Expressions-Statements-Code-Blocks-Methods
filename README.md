@@ -9,3 +9,7 @@ Brushing up on my java skills
 Covering keywords. Reserved words that have a predefined meaning
 
 Covering expressions. Expressions are a combination of variables, operators and numbers
+
+### Lecture 25- Statements, Whitespace and Indentation
+
+Statements, whitespace, and indentation
