@@ -17,3 +17,7 @@ Statements, whitespace, and indentation
 ### Lecture 26- Code Blocks and The If Then Else Control Statements
 
 Covering code blocks and if then else control flow
+
+### Lecture 28- Methods
+
+Creating methods so code is not repeated
