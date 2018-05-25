@@ -13,5 +13,9 @@ public class Lecture25 {
 
         //Multiple statements can be on one line
         int anotherVariable = 50;myVariable--;System.out.println("This is another one");
+
+        //Whitespace
+            //One space or twenty spaces doesn't matter
+            //Java removes extra spaces when compiling
     }
 }
