@@ -29,5 +29,15 @@ public class Lecture26 {
         } else {
             System.out.println("Got here");
         }
+
+        //Code blocks can access variables outside of the block
+        score = 800;
+        if (gameOver == true) {
+            int finalScore = score + (levelCompleted * bonus);
+            System.out.println("Your final score was " + finalScore);
+        }
+
+        //variables created in a code block can not be accessed outside of the code block
+        //int savedFinalScore = finalScore;
     }
 }
