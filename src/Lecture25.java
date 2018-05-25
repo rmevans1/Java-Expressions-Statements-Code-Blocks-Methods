@@ -17,5 +17,19 @@ public class Lecture25 {
         //Whitespace
             //One space or twenty spaces doesn't matter
             //Java removes extra spaces when compiling
+
+        //Indentation
+            //Indenting helps with readability
+            //Not required but good practice
+        //Bad example
+        if(myVariable == 50) {
+        System.out.println("Printed");
+        }
+
+        //Good example
+        //Indenting System... makes it more readable
+        if(myVariable == 50) {
+            System.out.println("Printed");
+        }
     }
 }
