@@ -8,4 +8,4 @@ Brushing up on my java skills
 
 Covering keywords. Reserved words that have a predefined meaning
 
-Covering expressions.
+Covering expressions. Expressions are a combination of variables, operators and numbers
