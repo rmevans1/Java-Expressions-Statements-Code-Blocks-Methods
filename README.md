@@ -4,6 +4,8 @@ Brushing up on my java skills
 
 ## Lectures
 
-### Lecture 24- Keywords
+### Lecture 24- Keywords and Expressions
 
 Covering keywords. Reserved words that have a predefined meaning
+
+Covering expressions.
