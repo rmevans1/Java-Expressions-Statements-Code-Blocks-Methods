@@ -1,0 +1,5 @@
+public class CodingExercise2 {
+    public static void main(String[] args){
+
+    }
+}
