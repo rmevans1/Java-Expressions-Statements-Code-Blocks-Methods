@@ -43,3 +43,7 @@ Return true if before 8am or after 22:00 hours if dog is barking. Else return fa
 Function to calculate if a year is a leap year.
 
 Leap year if divisble by 4 but not 100 or divisible by 400
+
+### Lecture 35- Method Overloading
+
+Using methods with the same name but different paramters
