@@ -21,3 +21,7 @@ Covering code blocks and if then else control flow
 ### Lecture 28- Methods
 
 Creating methods so code is not repeated
+
+### Lecture 29- Methoda 2
+
+More on methods
