@@ -29,3 +29,11 @@ More on methods
 ### Coding Exercise 1- Convert KB to MB
 
 Simple function to convert KB to MB and display the MB and remaining KB
+
+### Coding Exercise 2- Barking Dog
+
+Create a function called bark. It will take 2 parameters.
+1. Boolean barking- indicates if the dog is barking
+2. int hourOfDay- the hour of day 0-23
+
+Return true if before 8am or after 22:00 hours if dog is barking. Else return false
