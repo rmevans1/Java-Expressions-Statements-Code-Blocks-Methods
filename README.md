@@ -47,3 +47,8 @@ Leap year if divisble by 4 but not 100 or divisible by 400
 ### Lecture 35- Method Overloading
 
 Using methods with the same name but different paramters
+
+### Lecture 37- Minutes and Seconds Challenge
+
+Convert minutes and seconds to hms in function one. In function 2 convert seconds to minutes and seconds, 
+then convert to hms.
