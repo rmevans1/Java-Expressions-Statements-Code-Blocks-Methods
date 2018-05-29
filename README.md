@@ -25,3 +25,7 @@ Creating methods so code is not repeated
 ### Lecture 29- Methoda 2
 
 More on methods
+
+### Coding Exercise 1- Convert KB to MB
+
+Simple function to convert KB to MB and display the MB and remaining KB
