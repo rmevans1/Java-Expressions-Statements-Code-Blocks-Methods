@@ -37,3 +37,9 @@ Create a function called bark. It will take 2 parameters.
 2. int hourOfDay- the hour of day 0-23
 
 Return true if before 8am or after 22:00 hours if dog is barking. Else return false
+
+### Coding Exercise 3- Leap Year
+
+Function to calculate if a year is a leap year.
+
+Leap year if divisble by 4 but not 100 or divisible by 400
