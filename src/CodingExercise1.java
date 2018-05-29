@@ -1,10 +1,10 @@
 public class CodingExercise1 {
     public static void main(String[] args){
-        printMegaBytesAndKiloByes(2050);
-        printMegaBytesAndKiloByes(-40);
+        printMegaBytesAndKiloBytes(2050);
+        printMegaBytesAndKiloBytes(-40);
     }
 
-    public static void printMegaBytesAndKiloByes(int kiloBytes){
+    public static void printMegaBytesAndKiloBytes(int kiloBytes){
         if(kiloBytes < 0){
             System.out.println("Invalid Value");
         } else {
