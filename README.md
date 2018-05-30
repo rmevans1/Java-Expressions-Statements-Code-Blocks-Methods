@@ -52,3 +52,8 @@ Using methods with the same name but different paramters
 
 Convert minutes and seconds to hms in function one. In function 2 convert seconds to minutes and seconds, 
 then convert to hms.
+
+### Coding Exercise 4- Area calculator
+
+Overload function area to calculate area of a circle with one parameter. Or calculate a rectangle with two
+parameters
